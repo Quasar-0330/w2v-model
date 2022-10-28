@@ -37,7 +37,7 @@
 
 * `model.most_similar(positive=["英単語", "足したい英単語"])`
 
-### 例
+##### 例
 ##### 王 - 男 ＋ 女 = ?
 
 * `model.most_similar(positive=["king", "woman"], negative=["man"])`
