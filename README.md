@@ -58,4 +58,4 @@ LinuxのコマンドなのでWindowsとMacの場合は知らない。
 
 ##### モデル作成プログラム実行
 
-学習用テキストと*make-model.py*
+学習用テキストと_make-model.py_
