@@ -58,4 +58,6 @@ LinuxのコマンドなのでWindowsとMacの場合は知らない。
 
 ##### モデル作成プログラム実行
 
-学習用テキストと**make-model.py**
+学習用テキスト(wiki.txt)と**make-model.py**を同じディレクトリに置いて以下のコマンドで作成できる
+
+* `python make-model.py`
