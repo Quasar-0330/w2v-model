@@ -53,3 +53,9 @@ https://note.com/npaka/n/n30a0cef78f42
 
 * `sed -i 's/\.//g' wiki.txt`
 * `sed -i 's/,//g' wiki.txt`
+
+LinuxのコマンドなのでWindowsとMacの場合は知らない。
+
+##### モデル作成プログラム実行
+
+学習用テキストと*make-model.py*
