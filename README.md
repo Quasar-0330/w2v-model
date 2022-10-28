@@ -41,3 +41,8 @@
 ##### 王 - 男 ＋ 女 = ?
 
 * `model.most_similar(positive=["king", "woman"], negative=["man"])`
+
+### モデル作成
+##### 学習用テキスト用意
+
+https://note.com/npaka/n/n30a0cef78f42
