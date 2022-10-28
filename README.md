@@ -16,3 +16,16 @@
 ### 単語同士がどのくらい似ているか
 
 * `model.similarity("<英単語>", "<比べたい英単語>")`
+
+### 似ている単語
+
+* `model.most_similar(positive=["<調べたい単語>"])`
+
+### 最も遠い単語
+
+* `medel.most_similar(negative=["<調べたい単語>"])`
+
+### 単語の計算
+
+#### 引き算
+* `model.most_similar(positive=["<単語>"], negative=["<引きたい単語>"])`
